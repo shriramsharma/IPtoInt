@@ -1,0 +1,6 @@
+Procedure to install.
+
+1. sudo perl Makefile.PL
+2. sudo make
+3. sudo make test
+4. sudo make install
